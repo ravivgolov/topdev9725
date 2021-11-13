@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=7%2B+years+of+hands-on+experience+in+programming;Blockchain+developer;Web+and+mobile+app+developer;Passion+for+change+and+breaking+previous+records)](https://git.io/typing-svg)
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<h6 align="center">Skype: live:.cid.21dae5274167896f <---> Telegram: @alchemist35
+<h6 align="center">Skype: live:.cid.b7d8d44b8ce0d2e1 <---> Telegram: @topdev1212@
 <!--   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwrk&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
@@ -82,3 +82,16 @@
 <br />
 </div>
 <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
+  
+  **Languages, Tools and Interest:**   
+
+ - Ethereum / Solana / BSC / Polygon / Cardano / Moonbeam / Bitcoin
+ - Smart Contract Development / Testing / Auditing
+ - ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
+ - Solidity & Rust
+ - Metaplex (NFT marketplace)
+ - Hardhat / Truffle / Openzeppelin
+ - Anchor / Cargo
+ - Web3.js / Ether.js / Solana-web3
+ - Next.js / React.js / Vue.js
+ - Source Control
