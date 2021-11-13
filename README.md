@@ -71,7 +71,8 @@
 ## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
+ <br>
+  <br>
 </div>
 <!-- ![Snake animation](https://github.com/alchemist0404/alchemist0404/grid-snake.svg) -->
   
