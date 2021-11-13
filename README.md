@@ -51,8 +51,7 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-<!-- [![trophy](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=alchemist0404) [![Waka Stats](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404&theme=merko)](https://github-readme-stats.vercel.app/api/wakatime?username=alchemist0404) -->
-[![Tanishka's github activity graph](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=alchemist0404&theme=github&count_private=true)
+
 <div align="center">
   <!-- <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/alchemist0404/alchemist0404?style=flat-square&color=black&logo=github">
@@ -68,7 +67,7 @@
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
 </div>
-## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
  <br>
